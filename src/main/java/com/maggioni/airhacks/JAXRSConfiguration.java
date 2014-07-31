@@ -1,4 +1,4 @@
-package com.maggioni;
+package com.maggioni.airhacks;
 
 
 import javax.ws.rs.ApplicationPath;
